@@ -1,17 +1,334 @@
 <div align="center">
 
-<!-- === ANIMATED MATRIX HEADER === -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TuanmudaJannZ/TuanmudaJannZ/main/assets/matrix-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TuanmudaJannZ/TuanmudaJannZ/main/assets/matrix-header-light.svg">
-  <img width="100%" alt="Cyber Security Command Center" src="https://raw.githubusercontent.com/TuanmudaJannZ/TuanmudaJannZ/main/assets/matrix-header-dark.svg">
-</picture>
+<!-- === MATRIX STYLE HEADER === -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JANNZ%20COMMAND%20CENTER&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Cyber%20Security%20Specialist%20%7C%20Leader%20of%20LegionX&descSize=20&descAlignY=65" alt="Header" />
 
-<!-- === GLOWING TITLE WITH PULSE EFFECT === -->
-<h1 align="center">
-  <a href="https://portofolio.jannz.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=3000&pause=500&color=00F3FF&center=true&vCenter=true&width=1000&height=100&lines=⚡+JANNZ+⚡;CYBER+SECURITY+SPECIALIST;LEGIONX+COMMANDER;DIGITAL+SENTINEL;CODE+ARTISAN;SECURITY+RESEARCHER" alt="Typing SVG" />
-  </a>
+<!-- === ANIMATED TYPING TITLE === -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=800&size=40&duration=4000&pause=1000&color=00F3FF&center=true&vCenter=true&width=800&height=100&lines=🛡️+CYBER+SECURITY+SPECIALIST;⚔️+BUG+HUNTER+%26+PENTESTER;🔓+REVERSE+ENGINEER;🦠+MALWARE+ANALYST;🚀+LEADER+OF+LEGIONX;💻+FULL+STACK+DEVELOPER" alt="Typing SVG" />
+</p>
+
+<!-- === STATUS BADGES === -->
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_PORTFOLIO-portofolio.jannz.my.id-00F3FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portofolio.jannz.my.id)
+[![Telegram](https://img.shields.io/badge/📡_TELEGRAM-@TuanJannZ-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TuanJannZ)
+[![Email](https://img.shields.io/badge/📧_EMAIL-contact@jannz.my.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jannz.my.id)
+[![GitHub](https://img.shields.io/badge/💻_GITHUB-TuanmudaJannZ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuanmudaJannZ)
+
+</div>
+
+<!-- === LIVE STATS BADGES === -->
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/TuanmudaJannZ?label=Followers&style=flat-square&color=00F3FF)
+![Stars](https://img.shields.io/github/stars/TuanmudaJannZ?label=Total%20Stars&style=flat-square&color=B967FF)
+![Contributions](https://img.shields.io/github/contributors/TuanmudaJannZ/TuanmudaJannZ?label=Contributions&style=flat-square&color=00F3FF)
+![Profile Views](https://komarev.com/ghpvc/?username=TuanmudaJannZ&label=Profile%20Views&style=flat-square&color=00F3FF)
+
+</div>
+
+</div>
+
+---
+
+## 🎮 **TERMINAL COMMAND CENTER**
+
+```bash
+┌──(jannz㉿cyber-realm)-[~/mission-control]
+│
+├─[📅]$ date
+│  ➤  System Time: $(date +"%Y-%m-%d %H:%M:%S")
+│
+├─[🎯]$ mission --status
+│  ➤  Active Operations: 5
+│  ➤  Completed Missions: 128
+│  ➤  Systems Secured: 89
+│
+├─[⚡]$ skills --list
+│  ➤  Bug Hunting  [██████████] 95%
+│  ➤  Pen Testing  [█████████░] 90%
+│  ➤  Reverse Eng  [████████░░] 85%
+│  ➤  Web Security [██████████] 95%
+│
+├─[🛡️]$ team --status
+│  ➤  LegionX Status: OPERATIONAL
+│  ➤  Members: 15+
+│  ➤  Active Since: 2020
+│
+└─[🚀]$ system --check
+    ➤  All Systems: ONLINE ✅
+    ➤  Security: MAXIMUM 🔒
+    ➤  Status: READY FOR MISSIONS
+```
+
+## 🏆 **ELITE CERTIFICATIONS**
+
+<div align="center">
+
+| **Certification** | **Issuer** | **Year** | **Status** | **Badge** |
+|-------------------|------------|----------|------------|-----------|
+| **CEH** | EC-Council | 2023 | ✅ Active | ![CEH](https://img.shields.io/badge/CEH-FF6B35?style=flat&logo=windows-terminal&logoColor=white) |
+| **OSCP** | Offensive Security | 2023 | ✅ Active | ![OSCP](https://img.shields.io/badge/OSCP-000000?style=flat&logo=offensive-security&logoColor=white) |
+| **Security+** | CompTIA | 2022 | ✅ Active | ![Security+](https://img.shields.io/badge/Security%2B-007ACC?style=flat&logo=linuxfoundation&logoColor=white) |
+| **AWS Security** | Amazon | 2023 | ✅ Active | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) |
+| **CISSP** | (ISC)² | 2022 | ✅ Active | ![CISSP](https://img.shields.io/badge/CISSP-2E5AAC?style=flat&logo=isc2&logoColor=white) |
+
+</div>
+
+## ⚡ **CYBER ARSENAL**
+
+### **🔴 OFFENSIVE SECURITY**
+![Metasploit](https://img.shields.io/badge/Metasploit-FF6B35?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sql&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20The%20Ripper-FF0000?style=for-the-badge&logo=terminal&logoColor=white)
+
+### **🔵 REVERSE ENGINEERING**
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logo=hex&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-00F3FF?style=for-the-badge&logo=linux&logoColor=white)
+![Radare2](https://img.shields.io/badge/Radare2-B967FF?style=for-the-badge&logo=terminal&logoColor=white)
+![OllyDbg](https://img.shields.io/badge/OllyDbg-8B0000?style=for-the-badge&logo=debug&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-00008B?style=for-the-badge&logo=debug&logoColor=white)
+
+### **🟢 DEVELOPMENT**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **🟡 OPERATING SYSTEMS**
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 📊 **GITHUB WAR ROOM**
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### **📈 STATISTICS**
+<a href="https://github.com/TuanmudaJannZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuanmudaJannZ&show_icons=true&theme=dark&bg_color=0a0a1a&title_color=00f3ff&icon_color=b967ff&text_color=ffffff&border_color=1a1a2e&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" />
+</a>
+
+</td>
+<td>
+
+### **💻 TOP LANGUAGES**
+<a href="https://github.com/TuanmudaJannZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanmudaJannZ&layout=compact&theme=dark&bg_color=0a0a1a&title_color=00f3ff&text_color=ffffff&border_color=1a1a2e&langs_count=8&custom_title=Top+Languages" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### **🔥 CONTRIBUTION STREAK**
+<a href="https://github.com/TuanmudaJannZ">
+  <img height="180em" src="https://streak-stats.demolab.com?user=TuanmudaJannZ&theme=dark&background=0a0a1a&border=1a1a2e&stroke=00f3ff&ring=b967ff&fire=FF6B35&currStreakNum=FFFFFF&sideNums=00F3FF&currStreakLabel=00F3FF&sideLabels=00F3FF&dates=888888" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🎯 **CURRENT OPERATIONS**
+
+```yaml
+active_missions:
+  project_ares:
+    name: "Project Ares"
+    type: "Automated Pentesting Framework"
+    status: "🚀 In Development"
+    tech: ["Python", "React", "Docker"]
+    progress: "75%"
+    
+  shield_platform:
+    name: "SHIELD Platform"
+    type: "Security Operations Dashboard"
+    status: "🔒 Live & Monitoring"
+    tech: ["Node.js", "React", "WebSocket"]
+    uptime: "99.9%"
+    
+  phoenix_scanner:
+    name: "Phoenix Scanner"
+    type: "Web Vulnerability Scanner"
+    status: "⚡ Actively Scanning"
+    targets: "50+ domains"
+    findings: "200+ vulnerabilities"
+    
+  legionx_ops:
+    name: "LegionX Operations"
+    type: "Team Coordination"
+    status: "🛡️ Active 24/7"
+    members: 15
+    recent_ops: ["Firewall Audit", "Code Review"]
+```
+
+## 🚀 **FEATURED PROJECTS**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### **🛡️ DEFENSE PROJECTS**
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=TuanmudaJannZ&repo=jannz-portfolio&theme=dark&bg_color=0a0a1a&title_color=00f3ff&text_color=ffffff&border_color=1a1a2e)](https://github.com/TuanmudaJannZ/jannz-portfolio)
+
+[![SHIELD Platform](https://github-readme-stats.vercel.app/api/pin/?username=TuanmudaJannZ&repo=SHIELD-Platform&theme=dark&bg_color=0a0a1a&title_color=00f3ff&text_color=ffffff&border_color=1a1a2e)](https://github.com/TuanmudaJannZ/SHIELD-Platform)
+
+</td>
+<td width="50%">
+
+### **⚔️ OFFENSE PROJECTS**
+[![Phoenix Scanner](https://github-readme-stats.vercel.app/api/pin/?username=TuanmudaJannZ&repo=Phoenix-Scanner&theme=dark&bg_color=0a0a1a&title_color=b967ff&text_color=ffffff&border_color=1a1a2e)](https://github.com/TuanmudaJannZ/Phoenix-Scanner)
+
+[![Project Ares](https://github-readme-stats.vercel.app/api/pin/?username=TuanmudaJannZ&repo=Project-Ares&theme=dark&bg_color=0a0a1a&title_color=b967ff&text_color=ffffff&border_color=1a1a2e)](https://github.com/TuanmudaJannZ/Project-Ares)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🏅 **ACHIEVEMENTS**
+
+<div align="center">
+
+### **🎯 BUG BOUNTY STATS**
+```python
+bug_bounty_stats = {
+    "total_reports": 50,
+    "critical_finds": 12,
+    "high_finds": 18,
+    "medium_finds": 15,
+    "platforms": ["HackerOne", "Bugcrowd", "Intigriti"],
+    "total_payout": "$$$",
+    "rank": "Top 10%"
+}
+```
+
+### **🔓 VULNERABILITY DISCOVERIES**
+```javascript
+const cveDiscoveries = [
+    { id: "CVE-2023-XXXXX", severity: "HIGH", status: "PUBLISHED" },
+    { id: "CVE-2023-XXXXX", severity: "CRITICAL", status: "PUBLISHED" },
+    { id: "CVE-2024-XXXXX", severity: "HIGH", status: "PENDING" },
+    { id: "CVE-2024-XXXXX", severity: "MEDIUM", status: "PENDING" }
+];
+```
+
+</div>
+
+## 🌐 **CONNECT WITH ME**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="140">
+<a href="https://portofolio.jannz.my.id">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><br/>
+<sub><b>Portfolio</b></sub>
+</a>
+</td>
+<td align="center" width="140">
+<a href="https://github.com/TuanmudaJannZ">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+<sub><b>GitHub</b></sub>
+</a>
+</td>
+<td align="center" width="140">
+<a href="https://t.me/TuanJannZ">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /><br/>
+<sub><b>Telegram</b></sub>
+</a>
+</td>
+<td align="center" width="140">
+<a href="mailto:contact@jannz.my.id">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
+<sub><b>Email</b></sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<a href="https://linkedin.com/in/tuanjannz">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+<sub><b>LinkedIn</b></sub>
+</a>
+</td>
+<td align="center" width="140">
+<a href="https://twitter.com/TuanJannZ">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><br/>
+<sub><b>Twitter</b></sub>
+</a>
+</td>
+<td align="center" width="140">
+<a href="https://hackerone.com/jannz">
+<img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" /><br/>
+<sub><b>HackerOne</b></sub>
+</a>
+</td>
+<td align="center" width="140">
+<a href="https://tryhackme.com/p/TuanJannZ">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /><br/>
+<sub><b>TryHackMe</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+## 📜 **SECURITY MANIFESTO**
+
+> "Security is not a product, but a process. It's about making it harder for attackers, not impossible.  
+> Every line of code is a potential vulnerability, every system is a potential target.  
+> Stay curious, stay ethical, stay secure."
+
+## 🎵 **CODING VIBES**
+
+<div align="center">
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_id&count=1&width=400)](https://open.spotify.com/user/your_spotify_id)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ **SUPPORT THE MISSION**
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/TuanmudaJannZ)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jannz)
+
+---
+
+### **🚀 SYSTEM STATUS**
+
+![Online](https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge)
+![Security](https://img.shields.io/badge/SECURITY-MAXIMUM-FF0000?style=for-the-badge)
+![Ready](https://img.shields.io/badge/READY-FOR_MISSIONS-00F3FF?style=for-the-badge)
+
+**"In security we trust, in code we conquer"** 🔐⚔️
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
+
+</div>  </a>
 </h1>
 
 <!-- === ANIMATED BADGE RIBBON === -->

@@ -5,7 +5,7 @@
 
 <!-- === ANIMATED TYPING TITLE === -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=800&size=40&duration=4000&pause=1000&color=00F3FF&center=true&vCenter=true&width=800&height=100&lines=🛡️+CYBER+SECURITY+SPECIALIST;⚔️+BUG+HUNTER+%26+PENTESTER;🔓+REVERSE+ENGINEER;🦠+MALWARE+ANALYST;🚀+LEADER+OF+LEGIONX;💻+FULL+STACK+DEVELOPER" alt="Typing SVG" />
+  <img font=Roboto+Mono&weight=800&size=40&duration=4000&pause=1000&color=00F3FF&center=true&vCenter=true&width=800&height=100&lines=🛡️+CYBER+SECURITY+SPECIALIST;⚔️+BUG+HUNTER+%26+PENTESTER;🔓+REVERSE+ENGINEER;🦠+MALWARE+ANALYST;🚀+LEADER+OF+LEGIONX;💻+FULL+STACK+DEVELOPER" alt="Typing SVG" />
 </p>
 
 <!-- === STATUS BADGES === -->
